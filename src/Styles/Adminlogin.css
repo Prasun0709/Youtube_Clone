@@ -1,0 +1,46 @@
+.admin{
+    position: relative;
+    top: 200px;
+    left: 500px;
+    border: 1px solid brgb(11, 2, 18);
+    height: 300px;
+    width: 350px;
+    padding: 50px;
+    border-radius: 10px;
+    box-shadow:0px 0px 10px black;
+    background-color: skyblue;
+}
+.admin input{
+    padding: 10px 20px;
+    border: 2px solid black;
+    border-radius: 10px;
+    margin-top: 5px;
+    display: grid;
+    grid-template-columns: 200px 200px;
+    box-shadow:0px 0px 5px black;
+    background-color: white;
+    width: 300px;
+}
+.admin button{
+    padding: 10px 45px;
+    margin-top: 20px;
+    position: relative;
+    left: 50px;
+    border: none;
+    background-color: blueviolet;
+    color: white;
+    border-radius: 20px;
+    width: 200px;
+    box-shadow:0px 0px 10px black;
+}
+.admin h2{
+    text-align: center;
+    font-family: cursive;
+   
+}
+.admin button:hover{
+    color: white;
+    background-color: rgb(18, 18, 74);
+    box-shadow:0px 0px 10px black;
+
+}

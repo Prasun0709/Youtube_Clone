@@ -1,0 +1,40 @@
+
+.UserSignup form{
+    border: 2px solid black;
+    height: 550px;
+    width: 400px;
+    position: relative;
+    top: 100px;
+    left: 500px;
+    display: flex;
+    flex-direction: column;
+    padding: 10px 20px;
+}
+.UserSignup input{
+    display: flex;
+    align-items: center;
+   
+   /* padding: 10px 20px; */
+   box-shadow: 0px 0px 3px black;
+}
+.UserSignup label{
+    display: flex;
+    align-items: center;
+   
+   padding: 10px 20px;
+}
+.UserSignup button{
+    padding: 5px 15px;
+    border: none;
+    background-color: black;
+    color: white;
+    font-size: large;
+    border-radius: 20px;
+    box-shadow: 0px 0px 5px black;
+    margin-top: 15px;
+}
+.UserSignup button:hover{
+    background-color: antiquewhite;
+    color: black;
+    box-shadow: 0px 0px 5px red;
+}

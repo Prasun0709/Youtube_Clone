@@ -1,0 +1,35 @@
+.homepage-display{
+    display: flex;
+    /* width: 100%; */
+    flex-direction: row;
+}
+.videos{
+    display: flex;
+}
+
+.about p{
+    display: flex;
+   
+}
+.like-btn1{
+    height: 25px;
+    width: 50px;
+    background-color: white;
+    border: 1px solid gray;
+    color: black;
+    /* display: flex;
+  
+    justify-content: center;
+    align-items: center; */
+}
+.like-btn2{
+    height: 25px;
+    width: 50px;
+    background-color: white;
+    border: 1px solid gray;
+    color: black;
+    /* display: flex;
+    
+    justify-content: center;
+    align-items: center; */
+}

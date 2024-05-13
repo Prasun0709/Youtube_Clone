@@ -1,0 +1,36 @@
+.Userlogin form{
+    border: 2px solid black;
+    display: grid;
+    grid-template-columns: 200px 300px;
+    width: 600px;
+    position: relative;
+    top: 200px;
+    left: 500px;
+    padding: 40px;
+    border-radius: 10px;
+    box-shadow: 0px 0px 10px black;
+    background-color: skyblue;
+}
+.Userlogin label,input{
+    margin: 10px 0px;
+    padding: 8px 15px;
+    border-radius: 15px;
+    border: none;
+    
+   
+}
+.Userlogin button{
+    background-color: blueviolet;
+    color: white;
+    border: none;
+    border-radius: 20px;
+    text-align: center;
+    padding: 8px 20px;
+    margin: 20px 20px;
+    
+}
+.Userlogin button:hover{
+    color: white;
+    background-color: rgb(18, 18, 74);
+    box-shadow:0px 0px 5px black;
+}

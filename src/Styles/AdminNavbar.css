@@ -1,0 +1,35 @@
+.AdminNavbar{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 0px 40px;
+    height: 80px;
+}
+.AdminNavbar img{
+    height: 75px;
+    width: 150px;
+}
+.AdminNavbar>.search input{
+    height: 40px;
+    font-size: 15px;
+    width: 400px;
+    border: 2px solid gray;
+    box-shadow: 0px 0px 3px gray;
+    border-top-left-radius: 15px;
+    border-bottom-left-radius: 15px;
+    border-top-right-radius: 0%;
+    border-bottom-right-radius: 0%;
+    outline: none;
+}
+.search{
+    display: flex;
+    align-items: center;
+}
+.AdminNavbar>.search button{
+    padding: 8px 15px;
+    border:none;
+    border-top-left-radius: 0px;
+    border-bottom-left-radius: 0px;
+    border-top-right-radius: 15px;
+    border-bottom-right-radius: 15px;
+}

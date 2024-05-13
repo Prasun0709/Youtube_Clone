@@ -1,0 +1,60 @@
+{
+  "Admin": [
+    {
+      "id": "c039",
+      "name": "Prasun Mukherjee",
+      "email": "prasunkmr07@gmail.com",
+      "phone": "+917970455563",
+      "password": "123456"
+    },
+    {
+      "id": "f974",
+      "name": "Mahesh Manikpuri",
+      "email": "mahesh@gmail.com",
+      "phone": "82248406060",
+      "password": "m1234"
+    },
+    {
+      "id": "4694",
+      "name": "Surjoo",
+      "email": "prasunkmr07@gmail.com",
+      "phone": "9797779955",
+      "password": "456789",
+      "town": "Bokaro Steel City"
+    }
+  ],
+  "Videos": [
+    {
+      "name": "Hass Hass| Diljit X Sia| Punjabi Song",
+      "desc": "Hass Hass | Diljit X Sia| Punjabi Song | SRLofiMusic  Track Title: Hass Hass  Artist: Diljit Dosanjh, Sia, Greg Kurstin Composers: Diljit Dosanjh, Greg Kurstin, Indrr Bajwa Lyrics: Diljit Dosanjh, Indrr Bajwa, Sia Furler Mixer : Greg Kurstin Producer : Greg Kurstin Artwork: Inika Roy Manager: Sonali Singh ",
+      "address": "https://www.youtube.com/embed/jADTdg-o8i0?si=0rEvNKfN3pQziyAr",
+      "likes": "123",
+      "view": "54321",
+      "id": "ce65"
+    },
+    {
+      "id": "4089",
+      "name": "GURGAON - Web Series | Elvish Yadav | E01",
+      "desc": " Written by: Elvish Yadav ,Anoop Chahal (Faridabad Rockers)  Directed by: Elvish Yadav  Director of Photography: Imran Khan  Assistant DOP: fareed Ahmed  Edited by:Shashank,Elvish Yadav  Color Correction: Shashank   Executive Producer: Elvish yadav  Thumbnail- anshul (Cinemafy)",
+      "address": "https://www.youtube.com/embed/uh5S2DtUbTs?si=dzvCLNAv8wIaDocZ",
+      "likes": "800000",
+      "view": "9000000"
+    },
+    {
+      "id": "d1dc",
+      "name": "GURGAON - Web Series | Elvish Yadav | EP02",
+      "desc": " Written by: Elvish Yadav ,Anoop Chahal (Faridabad Rockers)  Directed by: Elvish Yadav  Director of Photography: Imran Khan  Assistant DOP: fareed Ahmed  Edited by:Shashank,Elvish Yadav  Color Correction: Shashank   Executive Producer: Elvish yadav  Thumbnail- anshul (Cinemafy)",
+      "address": "https://www.youtube.com/embed/yMVbgGF8DU8?si=mAfU-IcHBd1R8Mma",
+      "likes": "8000",
+      "view": "900000"
+    },
+    {
+      "id": "8251",
+      "name": "Ford Mustang v Chevy Camaro v Dodge Hellcat Redeye: DRAG RACE",
+      "desc": "We’ve got Mat in the Chevrolet Camaro ZL1, and he’s going head-to-head against Yianni in the Dodge Challenger Hellcat Redeye & Racing Driver Sam in the Ford Mustang!   So let’s see how these mighty muscle cars compare. Starting with the Camaro ZL1, it’s powered by a 6.2-litre supercharged V8, which would normally deliver 650hp. However, this one’s been tuned, and as a result, it puts down 770hp & 1,000Nm of torque! It delivers the power to the rear wheels via a 10-speed automatic gearbox, and it weighs in at 1,748kg. ",
+      "address": "https://www.youtube.com/embed/zOqdQUOTjV0?si=ZKPSU48LHUZAT1EY",
+      "likes": "751",
+      "view": "98452"
+    }
+  ]
+}

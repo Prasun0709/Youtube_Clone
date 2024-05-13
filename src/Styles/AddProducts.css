@@ -1,0 +1,21 @@
+.AddProducts{
+    display: flex;
+    align-items: start;
+    justify-content: center;
+    background-color: rgb(181, 153, 153);
+    height: 100vh;
+}
+.AddProducts form{
+    display: grid;
+    grid-template-columns: 200px 200px;
+    box-shadow: 0px 0px 10px rgb(21, 15, 15);
+    padding: 10px 20px;
+    border-radius: 20px;
+    background-color: white;
+    margin-top: 15px;
+}
+.AddProducts input{
+    border: none;
+    border-bottom: 2px solid red;
+    outline: none;
+}
